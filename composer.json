@@ -2,11 +2,16 @@
     "name": "s3b4stian/simple-cache",
     "description": "Common interfaces for simple caching with strict typing",
     "keywords": ["psr", "psr-16", "cache", "simple-cache", "caching"],
+    "homepage": "https://github.com/s3b4stian/simple-cache",
     "license": "MIT",
     "authors": [
         {
             "name": "PHP-FIG",
             "homepage": "http://www.php-fig.org/"
+        },
+        {
+            "name": "Sebastian Rapetti",
+            "email": "sebastian.rapetti@alice.it"
         }
     ],
     "require": {
